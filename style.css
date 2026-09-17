@@ -88,17 +88,8 @@
  opacity: 0.6;
  }
 
- .delete button{
- background: #dc3545;
- padding: 5px 10px;
- }
- 
- .delete:hover {
- background: #a71d2a;
- }
-
  @media (max-width: 600px) {
  .to-do-container {
  width: 95%;
  }
- }
+}
