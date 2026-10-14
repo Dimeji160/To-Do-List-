@@ -28,8 +28,6 @@
  // Put "Delete" inside the button
  deleteButton.textContent = "Delete";
 
- 
- 
  // delete the task when the button is clicked
  deleteButton.addEventListener("click", function () {
  li.remove();
